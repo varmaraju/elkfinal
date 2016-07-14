@@ -1,0 +1,3 @@
+[elk]
+server2 ansible_connection=local
+
